@@ -1,4 +1,4 @@
-![MedBuddy Logo](./assets/MedBuddy_logo.png)
+![MedBuddy Logo](./assets/medbuddy_logo.png)
 
 ## Table of Contents
 - [Description](#description)
